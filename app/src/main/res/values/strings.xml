@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleApp-for-MVVM</string>
+    <string name="nullValue">null</string>
+</resources>
